@@ -1,0 +1,19 @@
+tr:nth-child(2n) {
+    background: rgb(205, 209, 205);
+  }
+td:{
+    padding-left: px;
+    padding-right: 2px;
+}
+tr,td,th:{
+    font-size: 1rem;
+}
+#id{
+    font-size: xx-small;
+}
+.form-tag{
+    padding-bottom: 1px;
+}
+.red-star {
+    color: red;
+}
